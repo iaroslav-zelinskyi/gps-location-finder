@@ -10,7 +10,7 @@ There are several libraries besides python 3.x should be installed before runnin
 # Installation
 To install requiered packages the anaconda distribution https://www.anaconda.com/ should be pre-installed. 
 
-Update your conda by typing in the termina (Ubunto) or open Anaconda Prompt as Administrator under Windoes
+Update your conda by typing in the termina (Linux) or open Anaconda Prompt as Administrator (Windoes).
 
 ```console
 conda update --all
