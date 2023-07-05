@@ -8,6 +8,12 @@ There are several libraries besides python 3.x should be installed before runnin
 
 
 # Installation
+Make sure that you have the latest version of 'pip' or upgrade it
+
+```console
+pip install --upgrade pip
+```
+
 To install requiered packages the anaconda distribution https://www.anaconda.com/ should be pre-installed. 
 
 Update your conda by typing in the termina (Linux) or open Anaconda Prompt as Administrator (Windoes).
