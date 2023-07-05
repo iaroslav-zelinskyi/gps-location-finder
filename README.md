@@ -18,7 +18,7 @@ conda config --prepend channels conda-forge
 ```
 The gps-location-finder app requieres osmx PyQt, geppy folium and mathplotlib libraries.  
 ```console
-conda create -n <your_env_name> --strict-channel-priority osmnx pyqt geopandas geopy folium matplotlib
+conda create -n <your_env_name> --strict-channel-priority osmnx pyqt5 geopandas geopy folium matplotlib
 ```
 Install PyQtWebEngine to show map in QtWidget
 
